@@ -8,7 +8,7 @@ This Power BI project demonstrates data analysis and visualization using the Adv
 - Power BI Desktop 
 - SQL Server Management Studio (SSMS) for database management
 
-![Screenshot (249)](https://github.com/user-attachments/assets/349f233d-3ed4-478c-bf82-3c185e984761)
+![Screenshot (250)](https://github.com/user-attachments/assets/ef6374b5-b686-47bc-864b-1f74d13f3772)
 
 
 ## Contributing
